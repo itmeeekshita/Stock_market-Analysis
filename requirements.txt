@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+textblob
+matplotlib
+seaborn
+plotly
+finnhub-python
