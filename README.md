@@ -92,32 +92,13 @@ streamlit run app.py
 
 ## 📸 Dashboard Preview
 
-<table>
-  <tr>
-    <td>
-      <div style="height:400px; overflow-y:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius:10px; padding:5px; margin:10px; background:#f9f9f9;">
-        <img src="assets/price_chart page.png" alt="price_chart page" style="width:100%; border-radius:8px;">
-      </div>
-    </td>
-    <td>
-      <div style="height:400px; overflow-y:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius:10px; padding:5px; margin:10px; background:#f9f9f9;">
-        <img src="assets/Moving average Page.png" alt="Moving average Page" style="width:100%; border-radius:8px;">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="height:400px; overflow-y:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius:10px; padding:5px; margin:10px; background:#f9f9f9;">
-        <img src="assets/news sentiment page.png" alt="news sentiment page" style="width:100%; border-radius:8px;">
-      </div>
-    </td>
-    <td>
-      <div style="height:400px; overflow-y:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius:10px; padding:5px; margin:10px; background:#f9f9f9;">
-        <img src="assets/sentiment distribution page.png" alt="sentiment distribution" style="width:100%; border-radius:8px;">
-      </div>
-    </td>
-  </tr>
-</table>
+Click to view full previw of dashboard pages:
+
+[<img src="assets/price_chart page.png" width="250"/>](assets/price_chart page.png)
+[<img src="assets/Moving average Page.png" width="250"/>](assets/Moving average Page.png)
+[<img src="assets/news sentiment page.png" width="250"/>](assets/news sentiment page.png)
+[<img src="assets/sentiment distribution page.png" width="250"/>](assets/sentiment distribution page.png)
+
 
 
 
