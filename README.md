@@ -62,7 +62,7 @@ export FINNHUB_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
-## 🧠 How It Works
+##  How It Works
 
 - Stock prices are fetched from **Stooq** (CSV endpoint).
 - News articles are fetched from **Finnhub API**.
@@ -84,17 +84,21 @@ streamlit run app.py
 - Add CSV/PDF export of sentiment
 - Add more technical indicators (MACD, RSI)
 
-## 📌 Limitations
+##  Limitations
 
 - Only supports US-based stocks (e.g., AAPL, TSLA)
 - Finnhub’s free API has limited rate (60 calls/min)
 - Sentiment depends on headline quality and TextBlob accuracy
 
-## 📷 Screenshots
+## 📸 Dashboard Preview
 
-![Price Chart](https://your-link.com/price.png)
-![News Sentiment](https://your-link.com/news.png)
-![Sentiment Donut](https://your-link.com/donut.png)
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="assets/screenshot1.png" alt="Dashboard Screenshot 1" style="height:600px; margin-right:10px;">
+  <img src="assets/screenshot2.png" alt="Dashboard Screenshot 2" style="height:600px; margin-right:10px;">
+  <img src="assets/screenshot3.png" alt="Dashboard Screenshot 3" style="height:600px; margin-right:10px;">
+  <img src="assets/screenshot4.png" alt="Dashboard Screenshot 4" style="height:600px;">
+</div>
+
 
 ## ⚠️ Disclaimer
 
