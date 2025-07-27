@@ -93,10 +93,10 @@ streamlit run app.py
 ## 📸 Dashboard Preview
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="assets/screenshot1.png" alt="Dashboard Screenshot 1" style="height:600px; margin-right:10px;">
-  <img src="assets/screenshot2.png" alt="Dashboard Screenshot 2" style="height:600px; margin-right:10px;">
-  <img src="assets/screenshot3.png" alt="Dashboard Screenshot 3" style="height:600px; margin-right:10px;">
-  <img src="assets/screenshot4.png" alt="Dashboard Screenshot 4" style="height:600px;">
+  <img src="assets/price_chart page.png" alt="price_chart page" style="height:600px; margin-right:10px;">
+  <img src="assets/Moving average Page.png" alt="Moving average Page" style="height:600px; margin-right:10px;">
+  <img src="assets/news sentiment page.png" alt="news sentiment page" style="height:600px; margin-right:10px;">
+  <img src="assets/sentiment distribution.png" alt="sentiment distribution" style="height:600px;">
 </div>
 
 
