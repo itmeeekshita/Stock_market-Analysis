@@ -92,12 +92,12 @@ streamlit run app.py
 
 ## 📸 Dashboard Preview
 
-Click to view full previw of dashboard pages:
+Click to view full preview of dashboard pages:
 
-[<img src="assets/price_chart page.png" width="250"/>](assets/price_chart page.png)
-[<img src="assets/Moving average Page.png" width="250"/>](assets/Moving average Page.png)
-[<img src="assets/news sentiment page.png" width="250"/>](assets/news sentiment page.png)
-[<img src="assets/sentiment distribution page.png" width="250"/>](assets/sentiment distribution page.png)
+[<img src="assets/price_chart%20page.png" width="250"/>](assets/price_chart%20page.png)  
+[<img src="assets/Moving%20average%20Page.png" width="250"/>](assets/Moving%20average%20Page.png)  
+[<img src="assets/news%20sentiment%20page.png" width="250"/>](assets/news%20sentiment%20page.png)  
+[<img src="assets/sentiment%20distribution%20page.png" width="250"/>](assets/sentiment%20distribution%20page.png)
 
 
 
